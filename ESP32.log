@@ -1,0 +1,330 @@
+
+2022-04-01 02:15:35 ESP32 connected to Blynk with ping:32
+2022-04-01 02:15:36 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 02:15:38 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 02:15:39 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 02:15:42 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 02:15:45 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 02:15:46 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 02:15:49 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 02:15:51 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 02:16:49 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['1']
+2022-04-01 02:16:54 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 02:20:55 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['1']
+2022-04-01 02:21:09 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 02:23:49 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['1']
+2022-04-01 02:45:36 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 49)
+2022-04-01 03:00:38 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 25.85001 Humidity = 83 Report = Haze Pressure = 1.008
+2022-04-01 03:15:36 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 49)
+2022-04-01 03:45:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 48)
+2022-04-01 03:45:39 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 25.85001 Humidity = 83 Report = Haze Pressure = 1.008
+2022-04-01 04:15:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 47)
+2022-04-01 04:30:39 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 24.85001 Humidity = 78 Report = Haze Pressure = 1.008
+2022-04-01 04:45:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 47)
+2022-04-01 05:15:38 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 49)
+2022-04-01 05:15:40 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 24.85001 Humidity = 83 Report = Haze Pressure = 1.008
+2022-04-01 05:45:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 50)
+2022-04-01 06:00:39 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 24.85001 Humidity = 83 Report = Haze Pressure = 1.008
+2022-04-01 06:15:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 49)
+2022-04-01 06:45:38 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 50)
+2022-04-01 06:45:40 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 23.85001 Humidity = 83 Report = Haze Pressure = 1.009
+2022-04-01 07:15:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 49)
+2022-04-01 07:30:39 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 24.85001 Humidity = 78 Report = Haze Pressure = 1.009
+2022-04-01 07:45:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 30 Humidity: 50)
+2022-04-01 08:15:38 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 51)
+2022-04-01 08:15:40 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 25.85001 Humidity = 78 Report = Haze Pressure = 1.01
+2022-04-01 08:45:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 51)
+2022-04-01 09:00:38 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 26.85001 Humidity = 69 Report = Haze Pressure = 1.01
+2022-04-01 09:15:38 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 50)
+2022-04-01 09:45:37 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 31 Humidity: 49)
+2022-04-01 09:45:40 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 27.85001 Humidity = 61 Report = Haze Pressure = 1.011
+2022-04-01 10:33:06 ESP32 connected to Blynk with ping:34
+2022-04-01 10:33:07 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 10:33:10 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 10:33:11 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['1']
+2022-04-01 10:33:13 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 10:33:14 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 10:33:16 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 10:33:17 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 10:33:19 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 11:03:09 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 47)
+2022-04-01 11:15:14 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['1']
+2022-04-01 11:15:17 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 11:15:19 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 11:18:09 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 31.85001 Humidity = 48 Report = Smoke Pressure = 1.011)
+2022-04-01 11:33:08 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 45)
+2022-04-01 11:34:02 ESP32 connected to Blynk with ping:36
+2022-04-01 11:34:02 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 11:34:04 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 11:34:06 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 11:34:08 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 11:34:10 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 11:34:11 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 11:34:13 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 11:34:15 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 12:04:03 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 44)
+2022-04-01 12:19:04 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 31.85001 Humidity = 51 Report = Smoke Pressure = 1.01)
+2022-04-01 12:34:03 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 44)
+2022-04-01 13:04:05 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 32 Humidity: 42)
+2022-04-01 13:04:07 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 31.85001 Humidity = 48 Report = Smoke Pressure = 1.01)
+2022-04-01 13:34:03 ESP32 could not read DHT11 sensor. Sensor returned error: [116] Please check connection or if the sensor is faulty
+2022-04-01 13:49:04 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 31.85001 Humidity = 51 Report = Smoke Pressure = 1.009)
+2022-04-01 14:17:13 ESP32 connected to Blynk with ping:32
+2022-04-01 14:17:14 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 14:17:15 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 14:17:17 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 14:17:19 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 14:17:20 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 14:17:22 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 14:17:23 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 14:17:25 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 14:47:14 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 33 Humidity: 49)
+2022-04-01 15:02:16 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 30.85001 Humidity = 51 Report = Smoke Pressure = 1.008)
+2022-04-01 15:17:15 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 33 Humidity: 49)
+2022-04-01 15:47:14 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 33 Humidity: 46)
+2022-04-01 15:47:17 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 32.85001 Humidity = 46 Report = Smoke Pressure = 1.007)
+2022-04-01 16:12:13 ESP32 connected to Blynk with ping:31
+2022-04-01 16:12:14 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 16:12:15 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 16:12:17 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 16:12:18 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 16:12:20 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 16:12:22 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 16:12:23 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 16:12:25 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 16:42:14 ESP32 could not read DHT11 sensor. Sensor returned error: [116] Please check connection or if the sensor is faulty
+2022-04-01 16:57:15 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 30.85001 Humidity = 58 Report = Smoke Pressure = 1.007)
+2022-04-01 17:12:14 ESP32 could not read DHT11 sensor. Sensor returned error: [116] Please check connection or if the sensor is faulty
+2022-04-01 17:42:16 ESP32 could not read DHT11 sensor. Sensor returned error: [116] Please check connection or if the sensor is faulty
+2022-04-01 17:42:18 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 29.85001 Humidity = 62 Report = Smoke Pressure = 1.007)
+2022-04-01 18:45:54 ESP32 connected to Blynk with ping:38
+2022-04-01 18:45:54 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 18:45:56 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 18:45:58 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 18:46:00 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 18:46:02 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 18:46:04 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 18:46:07 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 18:46:08 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:14:58 ESP32 connected to Blynk with ping:8872
+2022-04-01 19:14:59 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:15:00 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:15:03 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:15:05 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:15:21 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:15:32 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:15:45 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:16:01 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:18:32 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['1']
+2022-04-01 19:18:39 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:22:16 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:28:36 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:39 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:41 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:42 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:44 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:46 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:49 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:51 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:28:55 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:29:23 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:29:24 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:29:26 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:29:27 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:29:29 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:29:30 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:29:32 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:29:50 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['1']
+2022-04-01 19:29:55 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['1']
+2022-04-01 19:29:58 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['1']
+2022-04-01 19:30:04 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['1']
+2022-04-01 19:30:09 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['1']
+2022-04-01 19:30:13 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['1']
+2022-04-01 19:30:17 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['1']
+2022-04-01 19:30:20 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['1']
+2022-04-01 19:30:30 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:30:32 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:30:33 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:30:36 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:30:38 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:30:41 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:30:42 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:32:17 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['1']
+2022-04-01 19:32:20 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['1']
+2022-04-01 19:32:22 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['1']
+2022-04-01 19:32:27 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['1']
+2022-04-01 19:32:32 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['1']
+2022-04-01 19:32:38 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['1']
+2022-04-01 19:32:40 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['1']
+2022-04-01 19:32:53 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:32:55 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:32:57 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:33:01 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:33:02 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:33:05 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:33:07 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:33:10 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:42:29 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:42:31 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:42:33 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:42:36 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:42:37 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:42:39 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:42:41 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:42:42 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:48:57 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:48:58 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:49:00 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:49:03 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:49:06 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:49:09 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:49:11 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:49:13 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:50:21 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:50:22 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:50:24 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:50:26 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:50:29 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:50:32 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:50:33 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:50:35 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:51:40 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:51:43 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:51:45 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:51:47 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:51:49 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:51:51 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:51:53 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:51:54 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:52:47 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 19:52:49 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 19:52:51 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 19:52:52 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 19:52:54 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 19:52:55 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 19:52:58 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 19:53:00 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 19:59:52 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 27.85001 Humidity = 78 Report = Haze Pressure = 1.008)
+2022-04-01 20:08:46 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['1']
+2022-04-01 20:08:58 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['1']
+2022-04-01 20:09:04 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['1']
+2022-04-01 20:09:06 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['1']
+2022-04-01 20:09:08 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['1']
+2022-04-01 20:09:12 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['1']
+2022-04-01 20:09:15 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['1']
+2022-04-01 20:09:16 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['1']
+2022-04-01 20:09:26 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 20:09:27 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 20:09:29 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 20:09:30 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 20:09:32 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 20:09:35 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 20:09:36 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 20:09:38 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 20:14:50 ESP32 could not read DHT11 sensor. Sensor returned error: [116] Please check connection or if the sensor is faulty
+2022-04-01 20:44:51 ESP32 could not read DHT11 sensor. Sensor returned error: [116] Please check connection or if the sensor is faulty
+2022-04-01 20:44:54 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 27.85001 Humidity = 78 Report = Haze Pressure = 1.009)
+2022-04-01 20:50:33 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['1']
+2022-04-01 20:50:42 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 20:50:48 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['1']
+2022-04-01 20:50:50 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['1']
+2022-04-01 20:50:53 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['1']
+2022-04-01 20:50:56 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['1']
+2022-04-01 20:50:59 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['1']
+2022-04-01 20:51:02 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['1']
+2022-04-01 20:51:04 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['1']
+2022-04-01 20:51:07 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['1']
+2022-04-01 20:51:28 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 20:51:29 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 20:51:31 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 20:51:33 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 20:51:35 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 20:51:38 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 20:51:39 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 20:51:41 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 21:14:52 ESP32 received sensor readings from DHT11 and updated the sensor data to Blynk. (Temperature: 34 Humidity: 48)
+2022-04-01 21:29:52 ESP32 received weather data from OpenWeather API and send data to Blynk cloud (Temperature = 27.85001 Humidity = 78 Report = Haze Pressure = 1.009)
+2022-04-01 22:03:46 ESP32 connected to Blynk with ping:37
+2022-04-01 22:03:47 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:03:49 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:03:51 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:03:54 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:03:56 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:04:00 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:04:01 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 22:04:04 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:04:19 ESP32 connected to Blynk with ping:37
+2022-04-01 22:04:20 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:04:22 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:04:24 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:04:25 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:04:27 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:04:28 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:04:30 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 22:04:32 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:04:53 ESP32 connected to Blynk with ping:41
+2022-04-01 22:04:54 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:05:14 ESP32 connected to Blynk with ping:40
+2022-04-01 22:05:15 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:05:17 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:05:20 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:05:23 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:05:26 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:05:28 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:05:31 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 22:05:34 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:06:14 ESP32 connected to Blynk with ping:39
+2022-04-01 22:06:15 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:06:18 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:06:19 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:06:21 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:06:24 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:06:27 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:06:29 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 22:06:30 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:06:52 ESP32 connected to Blynk with ping:38
+2022-04-01 22:06:53 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:06:56 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:06:58 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:07:02 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:07:05 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:07:06 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:07:08 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 22:07:10 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:07:51 ESP32 connected to Blynk with ping:41
+2022-04-01 22:07:52 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:07:55 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:07:57 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:07:58 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:08:00 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:08:01 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:08:04 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 22:08:06 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:11:15 ESP32 connected to Blynk with ping:39
+2022-04-01 22:11:16 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:11:17 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:11:19 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:11:20 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:11:23 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:11:25 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:11:26 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['0']
+2022-04-01 22:11:28 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:16:37 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['1']
+2022-04-01 22:18:34 ESP32 connected to Blynk with ping:37
+2022-04-01 22:18:35 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:18:36 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:18:38 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:18:41 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:18:44 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:18:46 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:18:48 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['1']
+2022-04-01 22:18:50 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
+2022-04-01 22:21:18 ESP32 connected to Blynk with ping:38
+2022-04-01 22:21:19 Switched Relay State for Virtual Pin 0 Digital Pin 12 to ['0']
+2022-04-01 22:21:20 Switched Relay State for Virtual Pin 1 Digital Pin 13 to ['0']
+2022-04-01 22:21:22 Switched Relay State for Virtual Pin 2 Digital Pin 14 to ['0']
+2022-04-01 22:21:25 Switched Relay State for Virtual Pin 3 Digital Pin 15 to ['0']
+2022-04-01 22:21:27 Switched Relay State for Virtual Pin 4 Digital Pin 21 to ['0']
+2022-04-01 22:21:30 Switched Relay State for Virtual Pin 5 Digital Pin 23 to ['0']
+2022-04-01 22:21:32 Switched Relay State for Virtual Pin 6 Digital Pin 25 to ['1']
+2022-04-01 22:21:33 Switched Relay State for Virtual Pin 7 Digital Pin 26 to ['0']
